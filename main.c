@@ -1,3 +1,4 @@
+// simply tests thread ability by doing scalar operations
 #include "stdio.h"
 #include "omp.h"
 #include "time.h"
